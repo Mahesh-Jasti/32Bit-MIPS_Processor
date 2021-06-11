@@ -1,0 +1,1 @@
+This folder contains code for the Assembler that takes in Assembly Language as input and outputs Machine code (32 bit Binary string) which is the instructions for the processor and can be used in the TB.
